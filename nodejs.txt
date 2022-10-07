@@ -1,0 +1,33 @@
+node.js is a platform যার মাধ্যমে সার্ভার সাইডের সাথে জাভাস্ক্রিপ্ট কাজ করতে পারে। 
+
+Node.js includes three types of module
+1. core module > node.js এর নিজস্ব module
+2. local module > নিজেরা তৈরী করা module
+3. third party module > অন্যদের তৈরী করা module ( managed by npm)
+
+core module ...
+http
+url
+querystring
+path
+fs > File System(abbr)
+util
+
+// stringify object থেকে json এ convert করে
+// parse json থেকে object এ conver করে
+
+http protocol 
+req res model
+request ....
+GET()
+POST()
+PUT()
+
+response...
+
+status code
+200/404/500
+
+data
+Head
+body
